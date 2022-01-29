@@ -26,7 +26,7 @@ Press the below button to Fast deploy on Heroku/Raiwlay
     
     
     One Click rapid deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lawleitekken/juptrhrk/tree/tele-filesstrm)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lawleitekken/tele-filesstrm)
 
     
     
