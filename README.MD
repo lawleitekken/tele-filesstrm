@@ -1,7 +1,5 @@
 ## 🍁 About This Bot :
 
-![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
-
 </p>
 <p align='center'>
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
@@ -23,9 +21,16 @@
 
 <h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
 
+    
 Press the below button to Fast deploy on Heroku/Raiwlay
-  
-![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lawleitekken/tele-filesstrm)
+    
+    
+    One Click rapid deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lawleitekken/juptrhrk/tree/tele-filesstrm)
+One Click rapid deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lawleitekken/juptrhrk/tree/tele-filesstrm)
+
+    
     
 <br>
 
