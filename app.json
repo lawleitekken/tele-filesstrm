@@ -1,22 +1,12 @@
 {
-  "name": "Adarsh-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
+  "name": "FileStrea",
+  "description": "A ",
   "keywords": [
-      "telegram",
-      "stream",
-      "web",
-      "pyrogram",
-      "aiohttp",
-      "python",
-      "plugin",
-      "modular",
-      "media",
-      "bot"
+      yml
     ],
-  "repository": "https://github.com/code-x-mania/FileStreamBot-pro/",
+  "repository": "https://github.com/",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
-  "website": "http://adarsh.eu.org",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
